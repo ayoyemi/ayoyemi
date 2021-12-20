@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoyemi
 - 👀 I’m interested in Website Development using HTML, CSS, Bootstrap, JavaScript, PHP and WordPress.
-- 🌱 I’m currently learning Pyython
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any Website Development
 - 📫 How to reach me: Email - krmayomide@gmail.com; Phone - +2348166132774
 
